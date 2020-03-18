@@ -1,0 +1,2 @@
+# idc
+Información del Contrato
